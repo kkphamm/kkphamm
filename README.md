@@ -1,9 +1,12 @@
-<h1 align="left">Hi, I'm Kenny ✨</h1>
-<p align="left">🧠 I'm a passionate Electrical Engineering and Computer Science student looking to break into AI. <br/>
-                 💫I want to build apps that benefit daily life.
+<h1 align="center">Hi, I'm Kenny ✨</h1>
+<p align="center">
+  🧠 Passionate Electrical Engineering and Computer Science student looking to break into AI.<br/>
+  💫 I want to build apps that benefit daily life.
 </p>
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -16,27 +19,36 @@
 
 </div>
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=kkphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kkphamm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kkphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
-# 🚀 LeetCode Stats:
+---
+
+## 🚀 LeetCode Stats
 <div align="center">
-  
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kennetheus?theme=dark&font=Raleway&ext=activity)
 
 </div>
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="left">Connect with me:</h1>
+## 🤝 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/kenny-pham-a49723245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenny pham" height="30" width="40" /></a>
-<a href="https://instagram.com/kkphamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkphamm" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/kenny-pham-a49723245" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/kkphamm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
+
 
