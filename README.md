@@ -25,6 +25,13 @@
 
 </div>
 
+# 🚀 LeetCode Stats:
+<div align="center">
+  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kennetheus?theme=dark&font=Raleway&ext=activity)
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h1 align="left">Connect with me:</h1>
