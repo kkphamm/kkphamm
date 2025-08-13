@@ -27,7 +27,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Connect with me:</h1>
+<h1 align="left">Connect with me:</h1>
 <p align="center">
 <a href="https://linkedin.com/in/kenny-pham-a49723245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenny pham" height="30" width="40" /></a>
 <a href="https://instagram.com/kkphamm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkphamm" height="30" width="40" /></a>
