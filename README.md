@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Kenny</h1>
+<h1 align="left">Hi, I'm Kenny ⚝</h1>
 <h3 align="left">I'm a passionate Electrical Engineering and Computer Science student looking to break into AI. I want to build apps that benefit daily life.</h3>
 
 
