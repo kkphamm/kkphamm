@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kenny Pham</h1>
-<h3 align="center">A passionate Electrical Engineering and Computer Science student looking to break into AI. I want to build apps that benefit daily life.</h3>
+<h1 align="center">Hello 👋, I'm Kenny Pham</h1>
+<h3 align="left">A passionate Electrical Engineering and Computer Science student looking to break into AI. I want to build apps that benefit daily life.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
