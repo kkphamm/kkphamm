@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 ## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/kenny-pham-a49723245" target="_blank">
