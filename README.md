@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kenny :D</h1>
 <p align="center">
-  - Passionate Electrical Engineering and Computer Science student looking to break into AI.<br/>
-  - I want to build apps that benefit daily life.
+  I'm a passionate Electrical Engineering and Computer Science student looking to break into big tech.<br/>
+  Building and building...
 </p>
 
 <div align="center">
