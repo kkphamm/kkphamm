@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kenny :D</h1>
-<p align="center">
+<p align="left">
   I'm a passionate Electrical Engineering and Computer Science student looking to break into big tech.<br/>
   Building and building...
 </p>
