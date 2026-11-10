@@ -5,8 +5,6 @@
 </p>
 
 ---
-
-## 💻 Tech Stack
 <div align="center">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -21,7 +19,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=kkphamm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -32,7 +30,7 @@
 
 ---
 
-## 🚀 LeetCode Stats
+## LeetCode Stats
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kennetheus?theme=dark&font=Raleway&ext=activity)
@@ -41,7 +39,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/kenny-pham-a49723245" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
